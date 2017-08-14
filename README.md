@@ -34,15 +34,15 @@ I am debating between 1x11 and 2x9 drive train.  1x11 is more convenient and eas
 # Parts List
 
 ## Frame:
-    * [Salsa Fargo Ti](http://salsacycles.com/bikes/fargo/2017_fargo_ti_frameset)
+* [Salsa Fargo Ti](http://salsacycles.com/bikes/fargo/2017_fargo_ti_frameset)
 
 ## Cockpit
 
 ### Fork
-    * [Salsa Firestarter Carbon](http://salsacycles.com/components/category/forks/firestarter_carbon_fork)
+* [Salsa Firestarter Carbon](http://salsacycles.com/components/category/forks/firestarter_carbon_fork)
 
 ### Handlebars
-    * [Salsa Woodchipper](http://salsacycles.com/components/category/mountain_handlebars/woodchipper)
+* [Salsa Woodchipper](http://salsacycles.com/components/category/mountain_handlebars/woodchipper)
 
 
 ### Brake Levers/Shifters
