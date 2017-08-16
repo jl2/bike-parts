@@ -74,8 +74,10 @@ I'm considering a 1x11 or 2x9 drive train.
 * [White Industries CLD+](http://www.whiteind.com/cld-boost) $184 front, $337.25 rear
 
 ### Spokes
+* black, double butted, with brass nipples
 
 ### Rims
+* ENVE M70 HV 27.5+, 32 hole, $500 x2 [Wheel builder.com](http://www.wheelbuilder.com/custom-plus-carbon-mtb-rear-wheel.html)
 
 ### Tires
 
