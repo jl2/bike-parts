@@ -2,17 +2,29 @@
 The main purpose of this bike is off-road bike packing, but I also want to ride it on the single track and other trails
  around Boulder.
 
-# High Level Design Comparisons
+# Comparisons
 This section is for keeping track of the pros and cons of major component decisions, to help make up my mind later.
 
 ## Mechanical or Hydro Brakes?
-My default brakes are Avid BB7 because I have them on several bikes already and like them.
-Hydraulic brakes have better stopping power (helpful when bikes are packed with extra weight), and may allow more 
-flexible cable routing to avoid packs and bags.  I need to investigate whether it's true hydro brake cables can be
-routed better.
+
+### Mechanical
+| Pros                          | Cons                             |
+|-------------------------------|----------------------------------|
+| Easier to repair              | Less power                       |
+| Easier to find parts          | Old technology (less innovation) |
+| More options on drop bar MTB  |                                  |
+| Have on my cross bikes        |                                  |
+
+### Hydro
+| Pros               | Cons                             |
+|--------------------|----------------------------------|
+| More power         | Need bleeding                    |
+| Cable routing      | Difficult to repair              |
+|                    | Limited options on drop-bar MTB  |
+
 
 ## 1x11, 2x9, 2x10, 3x9?
-I am debating between 1x11 and 2x9 drive train.  1x11 is more convenient and easier to use, 
+I'm considering a 1x11 or 2x9 drive train.
 
 ### 1x11
 | Pros               | Cons                         |
@@ -20,16 +32,14 @@ I am debating between 1x11 and 2x9 drive train.  1x11 is more convenient and eas
 | Fewer moving parts | 10 and 11 speed chains suck  |
 | Simpler            |                              |
 | Easier to use      |                              |
+| Fewer cables       |                              |
 
 ### 2x9 (or 3x9)
-|  Pros               | Cons                  |
-|---------------------|-----------------------|
-| Larger gear range   | More moving parts     |
-| Sturdier chain      | More cables to route  |
-| Sturdier components | Derailleurs suck      |
-
-## 
-
+|  Pros                        | Cons                  |
+|------------------------------|-----------------------|
+| Possibly larger gear range   | More moving parts     |
+| Sturdier chain               | More cables to route  |
+| Sturdier components          | Derailleurs suck      |
 
 # Parts List
 
@@ -61,6 +71,7 @@ I am debating between 1x11 and 2x9 drive train.  1x11 is more convenient and eas
 ## Wheels
 
 ### Hubs
+* [White Industries CLD+](http://www.whiteind.com/cld-boost) $184 front, $337.25 rear
 
 ### Spokes
 
@@ -69,6 +80,8 @@ I am debating between 1x11 and 2x9 drive train.  1x11 is more convenient and eas
 ### Tires
 
 ### Brakes
+* [Avid BB7](https://www.sram.com/avid/products/bb7-road-mechanical-disc-brake) $86 x 2
+* [Paul Klamper](https://paulcomp.com/shop/components/klamper/) $185 x 2
 
 
 ## Drivetrain
