@@ -2,45 +2,6 @@
 The main purpose of this bike is off-road bike packing, but I also want to ride it on the single track and other trails
  around Boulder.
 
-# Comparisons
-This section is for keeping track of the pros and cons of major component decisions, to help make up my mind later.
-
-## Mechanical or Hydro Brakes?
-
-### Mechanical
-| Pros                          | Cons                             |
-|-------------------------------|----------------------------------|
-| Easier to repair              | Less power                       |
-| Easier to find parts          | Old technology (less innovation) |
-| More options on drop bar MTB  |                                  |
-| Have on my cross bikes        |                                  |
-
-### Hydro
-| Pros               | Cons                             |
-|--------------------|----------------------------------|
-| More power         | Need bleeding                    |
-| Cable routing      | Difficult to repair              |
-|                    | Limited options on drop-bar MTB  |
-
-
-## 1x11, 2x9, 2x10, 3x9?
-I'm considering a 1x11 or 2x9 drive train.
-
-### 1x11
-| Pros               | Cons                         |
-|--------------------|------------------------------|
-| Fewer moving parts | 10 and 11 speed chains suck  |
-| Simpler            |                              |
-| Easier to use      |                              |
-| Fewer cables       |                              |
-
-### 2x9 (or 3x9)
-|  Pros                        | Cons                  |
-|------------------------------|-----------------------|
-| Possibly larger gear range   | More moving parts     |
-| Sturdier chain               | More cables to route  |
-| Sturdier components          | Derailleurs suck      |
-
 # Parts List
 
 ## Frame:
@@ -49,52 +10,68 @@ I'm considering a 1x11 or 2x9 drive train.
 ## Cockpit
 
 ### Fork
-* [Salsa Firestarter Carbon](http://salsacycles.com/components/category/forks/firestarter_carbon_fork)
+* [Salsa Firestarter Carbon](http://salsacycles.com/components/category/forks/firestarter_carbon_fork) (included with frame)
 
 ### Handlebars
-* [Salsa Woodchipper](http://salsacycles.com/components/category/mountain_handlebars/woodchipper)
-
+* [Salsa Woodchipper](http://salsacycles.com/components/category/mountain_handlebars/woodchipper) $75
 
 ### Brake Levers/Shifters
+* [SRAM Rival 22 Mechanical Shifters](https://www.sram.com/sram/road/products/sram-rival-22-mechanical-shifters) $247
+* [SRAM Rival 1 Brake Lever Left](https://www.sram.com/sram/road/products/sram-rival-1-brake-lever) 
+
 
 ### Headset
+* [Chris King Inset 8](https://chrisking.com/products/218) $170.00
 
 ### Stem
-
+* [Salsa Guide](http://salsacycles.com/components/category/stems/guide_stem) $40.00
 ### Seat
+* [Ergon SME3 Pro Saddle](http://www.artscyclery.com/Thomson_Elite_Seatpost_272/descpage-THSP272.html) $99.99
 
 ### Seat Post
+* [Thomson Elite 27.2](http://www.artscyclery.com/Thomson_Elite_Seatpost_272/descpage-THSP272.html) $99.99
 
 ### Bar Tape
-
+* [Fi'zi:k Performance Classic Bar Tape](https://www.coloradocyclist.com/fi-zi-k-performance-classic-bar-tape) $29.99
 
 ## Wheels
 
+### Wheelset
+* [Velocity Dually 650B hub, White Industries CLD+ hub, DT Swiss spokes, nipples](http://www.prowheelbuilder.com/checkout/cart/) $370.64 front, $508.64 Rear
+* [Derby Carbon 27.5 AM 40 mm, 32 hole, black spokes, double butted, silver/brass nipples](http://www.wheelbuilder.com/custom-derby-mtb-front-wheel.html)
+  [White Industries CLD+](http://www.whiteind.com/cld-boost)
+  Black hub Light Green Decals
+  $710 x 2
+  
 ### Hubs
 * [White Industries CLD+](http://www.whiteind.com/cld-boost) $184 front, $337.25 rear
 
 ### Spokes
-* black, double butted, with brass nipples
+* DT Swiss black, double butted, with brass nipples
 
 ### Rims
-* ENVE M70 HV 27.5+, 32 hole, $500 x2 [Wheel builder.com](http://www.wheelbuilder.com/custom-plus-carbon-mtb-rear-wheel.html)
+* Velocity Dually 650B
+* Derby Carbon 27.5 AM 40 mm, 32 hole, black spokes, double butted, silver/brass nipples
 
 ### Tires
 
 ### Brakes
-* [Avid BB7](https://www.sram.com/avid/products/bb7-road-mechanical-disc-brake) $86 x 2
 * [Paul Klamper](https://paulcomp.com/shop/components/klamper/) $185 x 2
+* [Avid BB7](https://www.sram.com/avid/products/bb7-road-mechanical-disc-brake) $86 x 2
 
 
 ## Drivetrain
 
 ### Bottom Bracket
+* [White Industries BSA](http://www.whiteind.com/bsa) $100
 
 ### Cranks
+* [White Industries M30](http://www.whiteind.com/bsa) $300
 
 ### Front Derailleur(?)
-
+* None
 ### Chainring (s?)
+* [White Industries TSR 36 Tooth](http://www.whiteind.com/bsa) $50?
 
 ### Cassette
 
@@ -102,6 +79,14 @@ I'm considering a 1x11 or 2x9 drive train.
 
 ### Chain
 
+## Lights
+* []()
+
+## Bell
+* [Spurcycle Bell](https://www.spurcycle.com/collections/all/products/better-bicycle-bell) $49.00
 
 ## Pump
-## Bell
+
+
+# Total
+
