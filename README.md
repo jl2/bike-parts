@@ -26,7 +26,7 @@ The main purpose of this bike is off-road bike packing, but I also want to ride 
 ### Stem
 * [Salsa Guide](http://salsacycles.com/components/category/stems/guide_stem) $40.00
 ### Seat
-* [Ergon SME3 Pro Saddle](http://www.artscyclery.com/Thomson_Elite_Seatpost_272/descpage-THSP272.html) $99.99
+* [Ergon SME3 Pro Saddle](http://www.artscyclery.com/Ergon_SME3_Pro_Saddle_/descpage-ERSSE3P.html) $99.99
 
 ### Seat Post
 * [Thomson Elite 27.2](http://www.artscyclery.com/Thomson_Elite_Seatpost_272/descpage-THSP272.html) $99.99
@@ -66,21 +66,26 @@ The main purpose of this bike is off-road bike packing, but I also want to ride 
 * [White Industries BSA](http://www.whiteind.com/bsa) $100
 
 ### Cranks
-* [White Industries M30](http://www.whiteind.com/bsa) $300
+* [White Industries M30](http://www.whiteind.com/m30) $300
 
 ### Front Derailleur(?)
 * None
+
 ### Chainring (s?)
-* [White Industries TSR 36 Tooth](http://www.whiteind.com/bsa) $50?
+* [White Industries TSR 36 Tooth](http://www.whiteind.com/tsr) $50?
 
 ### Cassette
+* [XG-1180 Mini Cluster](https://www.sram.com/sram/mountain/products/x1-x-horizon-rear-derailleur) $308
 
 ### Rear Derailleur
+* [SRAM X1 X-Horizon](https://www.sram.com/sram/mountain/products/x1-x-horizon-rear-derailleur) $227
 
 ### Chain
+* [SRAM PC-X1](https://www.sram.com/sram/mountain/products/pc-x1-chain) $30
 
 ## Lights
-* []()
+* [Light In Motion Urban 500 Panther](http://www.lightandmotion.com/choose-your-light/urban/urban-500-panther) $60
+* 
 
 ## Bell
 * [Spurcycle Bell](https://www.spurcycle.com/collections/all/products/better-bicycle-bell) $49.00
@@ -89,4 +94,4 @@ The main purpose of this bike is off-road bike packing, but I also want to ride 
 
 
 # Total
-
+$3200
