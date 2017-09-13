@@ -25,14 +25,15 @@ The main purpose of this bike is off-road bike packing, but I also want to ride 
 
 ### Stem
 * [Salsa Guide](http://salsacycles.com/components/category/stems/guide_stem) $40.00
+
 ### Seat
-* [Ergon SME3 Pro Saddle](http://www.artscyclery.com/Ergon_SME3_Pro_Saddle_/descpage-ERSSE3P.html) $99.99
+* [Ergon SMA3 Saddle](http://www.jensonusa.com/Bicycle-Saddles/Ergon-SMA3-MTB-All-Mountain-Saddle?cs=Black) $60.00
 
 ### Seat Post
-* [Thomson Elite 27.2](http://www.artscyclery.com/Thomson_Elite_Seatpost_272/descpage-THSP272.html) $99.99
+* [Thomson Elite 27.2](http://www.jensonusa.com/Rigid-Posts/Thomson-Elite-Seatpost?cs=Black) $99.99
 
 ### Bar Tape
-* [Fi'zi:k Performance Classic Bar Tape](https://www.coloradocyclist.com/fi-zi-k-performance-classic-bar-tape) $29.99
+* [Fi'zi:k Performance Classic Bar Tape](http://www.jensonusa.com/Fizik-Performance-Bar-Tape?cs=Black,%20Soft%20Touch) $19.99
 
 ## Wheels
 
