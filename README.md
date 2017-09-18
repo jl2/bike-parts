@@ -1,7 +1,3 @@
-# Goals
-The main purpose of this bike is off-road bike packing, but I also want to ride it on the single track and other trails
- around Boulder.
-
 # Parts List
 
 ## Frame:
@@ -16,9 +12,7 @@ The main purpose of this bike is off-road bike packing, but I also want to ride 
 * [Salsa Woodchipper](http://salsacycles.com/components/category/mountain_handlebars/woodchipper) $75
 
 ### Brake Levers/Shifters
-* [SRAM Rival 22 Mechanical Shifters](https://www.sram.com/sram/road/products/sram-rival-22-mechanical-shifters) $247
-* [SRAM Rival 1 Brake Lever Left](https://www.sram.com/sram/road/products/sram-rival-1-brake-lever) 
-
+* [Gevenalle GX Shifter](https://www.gevenalle.com/product/gx/) $170
 
 ### Headset
 * [Chris King Inset 8](https://chrisking.com/products/218) $170.00
@@ -40,9 +34,7 @@ The main purpose of this bike is off-road bike packing, but I also want to ride 
 ### Wheelset
 * [Velocity Dually 650B hub, White Industries CLD+ hub, DT Swiss spokes, nipples](http://www.prowheelbuilder.com/checkout/cart/) $370.64 front, $508.64 Rear
 * [Derby Carbon 27.5 AM 40 mm, 32 hole, black spokes, double butted, silver/brass nipples](http://www.wheelbuilder.com/custom-derby-mtb-front-wheel.html)
-  [White Industries CLD+](http://www.whiteind.com/cld-boost)
-  Black hub Light Green Decals
-  $710 x 2
+  [White Industries CLD+](http://www.whiteind.com/cld-boost) Black hub Light Green Decals $710 x 2
   
 ### Hubs
 * [White Industries CLD+](http://www.whiteind.com/cld-boost) $184 front, $337.25 rear
@@ -55,11 +47,10 @@ The main purpose of this bike is off-road bike packing, but I also want to ride 
 * Derby Carbon 27.5 AM 40 mm, 32 hole, black spokes, double butted, silver/brass nipples
 
 ### Tires
+* [Schwalbe Rocket Ron 27.5x3.0](https://www.amazon.com/Schwalbe-Rocket-Ron-Tire-Snakeskin/dp/B0177ZXS1I) $77 x2
 
 ### Brakes
-* [Paul Klamper](https://paulcomp.com/shop/components/klamper/) $185 x 2
-* [Avid BB7](https://www.sram.com/avid/products/bb7-road-mechanical-disc-brake) $86 x 2
-
+* [Paul Klamper (long pull)](https://paulcomp.com/shop/components/klamper/) $185 x 2
 
 ## Drivetrain
 
@@ -76,13 +67,13 @@ The main purpose of this bike is off-road bike packing, but I also want to ride 
 * [White Industries TSR 36 Tooth](http://www.whiteind.com/tsr) $50?
 
 ### Cassette
-* [XG-1180 Mini Cluster](https://www.sram.com/sram/mountain/products/x1-x-horizon-rear-derailleur) $308
+* [Box Two 11.46 Cassette](http://www.boxcomponents.com/Box-Two-11-46-Cassette) $100
 
 ### Rear Derailleur
-* [SRAM X1 X-Horizon](https://www.sram.com/sram/mountain/products/x1-x-horizon-rear-derailleur) $227
+* [BOX One 11](http://www.boxcomponents.com/Box-One-11-Speed-Rear-Derailleur) $175
 
 ### Chain
-* [SRAM PC-X1](https://www.sram.com/sram/mountain/products/pc-x1-chain) $30
+* [KMC 11 speed](https://www.amazon.com/KMC-X11SL-Speed-Chain-Silver/dp/B001CN5M0W/) $47
 
 ## Lights
 * [Light In Motion Urban 500 Panther](http://www.lightandmotion.com/choose-your-light/urban/urban-500-panther) $60
@@ -95,4 +86,4 @@ The main purpose of this bike is off-road bike packing, but I also want to ride 
 
 
 # Total
-$3200
+$2920
