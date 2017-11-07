@@ -12,6 +12,8 @@
 * [Salsa Woodchipper](http://salsacycles.com/components/category/mountain_handlebars/woodchipper) $75
 
 ### Brake Levers/Shifters
+* [SRAM Rival Mechanical Shifter](https://www.sram.com/sram/road/products/sram-rival-22-mechanical-shifters) $250
+* [SRAM Rival Brake Lever](https://www.sram.com/sram/road/products/sram-rival-1-brake-lever)
 * [Gevenalle GX Shifter](https://www.gevenalle.com/product/gx/) $170
 
 ### Headset
@@ -67,9 +69,11 @@
 * [White Industries TSR 36 Tooth](http://www.whiteind.com/tsr) $50?
 
 ### Cassette
+* [SRAM XF-1150 Full Pin](https://www.sram.com/sram/mountain/products/xg-1150-full-pin-cassette)
 * [Box Two 11.46 Cassette](http://www.boxcomponents.com/Box-Two-11-46-Cassette) $100
 
 ### Rear Derailleur
+* [SRAM X1 X-Horizon](https://www.sram.com/sram/mountain/products/x1-x-horizon-rear-derailleur) $227
 * [BOX One 11](http://www.boxcomponents.com/Box-One-11-Speed-Rear-Derailleur) $175
 
 ### Chain
